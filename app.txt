@@ -1,4 +1,9 @@
 aaaaaaaaaaaaaaa
 bbbbbbbb
 ccccc
+<<<<<<< HEAD
 ww
+=======
+ddd
+eeee
+>>>>>>> coupon
